@@ -13,3 +13,4 @@ OpenCVApplication.vcxproj
 OpenCVApplication.vcxproj.filters
 OpenCVApplication.vcxproj.user
 ipch/
+ImageProcessingServer/

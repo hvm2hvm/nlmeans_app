@@ -3,9 +3,9 @@
 namespace ip {
 
     float **gauss;
-    int SEARCH_SIZE = 11;
+    int SEARCH_SIZE = 21;
     int SEARCH_EDGE = SEARCH_SIZE / 2;
-    int SAMPLE_SIZE = 5;
+    int SAMPLE_SIZE = 7;
     int SAMPLE_EDGE = SAMPLE_SIZE / 2;
 
     float DISTANCE_SIGMA = 3.0f;
